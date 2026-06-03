@@ -13,7 +13,7 @@ Screenshot coming soon.
 Add your main UI screenshot here when ready:
 
 <p align="center">
-  <img src="[assets/preview.png](https://github.com/user-attachments/assets/cd2cde9c-d6bb-492a-849b-ce7e186eaf43)" alt="Multi-Roblox Manager interface" width="900">
+  <img src="https://github.com/user-attachments/assets/cd2cde9c-d6bb-492a-849b-ce7e186eaf43" alt="Multi-Roblox Manager interface" width="900">
 </p>
 -->
 
