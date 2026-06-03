@@ -8,7 +8,7 @@ Clean, fast, complete, easy to use, with public source code for transparency.
 ## Preview
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cd2cde9c-d6bb-492a-849b-ce7e186eaf43" alt="Multi-Roblox Manager interface" width="900">
+  <img src="https://github.com/user-attachments/assets/40cea309-b209-4662-865a-d719c39aab71" alt="Multi-Roblox Manager interface" width="900">
 </p>
 
 
