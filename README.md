@@ -1,79 +1,45 @@
 # Multi-Roblox Manager
 
-Multi-Roblox Manager is an optimized Roblox multi-instance manager with a
-modern desktop interface and complete tools for managing multiple sessions.
-
-Clean, fast, complete, easy to use, with public source code for transparency.
-
-## Preview
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/40cea309-b209-4662-865a-d719c39aab71" alt="Multi-Roblox Manager interface" width="900">
+  <img src="https://github.com/user-attachments/assets/cd2cde9c-d6bb-492a-849b-ce7e186eaf43" alt="Multi-Roblox Manager preview" width="900">
 </p>
 
+Multi-Roblox Manager is currently in development.
 
-## About
+This GitHub page was created early, before the first public release. If you want
+to follow announcements, previews, feature ideas and release news, everything
+will be shared on the Discord server.
 
-Multi-Roblox Manager is a passion project built to make managing multiple
-Roblox sessions cleaner, faster, and more comfortable.
+The project is made entirely in Python and has already been worked on for
+several weeks/months. It already contains more than 12,000 lines of code, with a
+lot of focus on details, stability, usability, request optimization and a clean
+modern interface.
 
-The project has been in development for several months and currently contains
-more than 12,000 lines of code. A lot of time has gone into details most users
-may never notice directly, but that still matter for the final feeling of the
-app: smooth UI behavior, careful window handling, session organization,
-responsive controls, clean visuals, and small quality-of-life improvements.
+I have been automating things for many years, especially through requests, and I
+never found a public Roblox manager that was truly good enough. So I decided to
+build it myself.
 
-The goal is simple: build a complete, polished, modern tool that feels good to
-use instead of a quick script with a basic interface.
+The goal is simple: make literally the best Roblox account/session manager
+available, completely for free, with public source code for everyone to inspect.
+If something is even 0.1% worse than it should be, whether it is in the UI or in
+the request optimization, I want to patch it. That is just how I work.
 
-## Philosophy
+## Support The Project
 
-I am building this first of all for passion and fun.
+I am building this project out of passion.
 
-I care a lot about details. Sometimes that means spending hours on features,
-transitions, edge cases, or tiny UI behaviors that are barely visible, just
-because the final result feels better when they are done right.
+If you are interested in the project, please consider starring this repository
+and joining the Discord server. Even a simple star and joining the server can
+make a huge difference, because it helps me know in advance if people are truly
+interested in my work.
 
-I do not want to release something half-finished. If the project gets support
-and people are interested in it, that will motivate me even more to keep
-improving it and to spend more time on development.
+Any help is also welcome: logo, graphic design, ideas, advice, feedback, posts,
+sharing the project or anything that can help give it more visibility.
 
-## What To Expect
+[Join the Discord](https://discord.gg/3VnrmEgKVQ)
 
-Without spoiling every feature too early, the idea is to include the tools that
-actually matter for managing multiple Roblox sessions, and even the small things
-you might not think about until you need them.
+## Status
 
-If something useful is missing, suggest it. If it makes sense for the project, I
-will gladly consider adding it.
-
-## Follow The Project
-
-If you want to support the project, follow its development, or get notified when
-new previews and releases are available:
-
-Star this repository.
-
-Join the Discord server:
-https://discord.gg/3VnrmEgKVQ
-
-Your feedback, suggestions, and bug reports can directly help shape the final
-version of Multi-Roblox Manager.
-
-## Source Code And License
-
-The source code is publicly visible for transparency, personal review, and
-security auditing.
-
-This project is source-available, not open-source. Modification, forks,
-reuploads, redistribution, resale, unofficial builds, and use of the source code
-in other projects require explicit written permission from Zoltrak Dev.
-
-See `LICENSE.md` for the full license terms.
-
-## Disclaimer
-
-Multi-Roblox Manager is an independent project and is not affiliated with,
-endorsed by, sponsored by, or approved by Roblox Corporation.
-
-Roblox and related trademarks are the property of Roblox Corporation.
+- In development
+- Not released yet
+- More previews and announcements coming soon
