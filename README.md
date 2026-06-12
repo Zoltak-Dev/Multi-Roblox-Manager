@@ -1,7 +1,7 @@
 # Multi-Roblox Manager
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cd2cde9c-d6bb-492a-849b-ce7e186eaf43" alt="Multi-Roblox Manager preview" width="900">
+  <img src="https://github.com/user-attachments/assets/56e3f5dc-c5f2-472d-97ad-d97da99f023d" alt="Multi-Roblox Manager preview" width="900">
 </p>
 
 Multi-Roblox Manager is currently in development.
