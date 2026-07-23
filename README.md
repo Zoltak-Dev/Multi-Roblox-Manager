@@ -67,7 +67,9 @@ is plain text and can be inspected before it is run.
 ### Manual Installation
 
 Install [Python](https://www.python.org/downloads/) and
-[Git](https://git-scm.com/download/win), then run:
+[Git](https://git-scm.com/download/win). Then open **Windows PowerShell** or
+**Windows Terminal with a PowerShell tab** (not Command Prompt), paste the
+following commands and press Enter:
 
 ```powershell
 $desktop = [Environment]::GetFolderPath("Desktop")
@@ -86,6 +88,10 @@ mutex is also released automatically if the console is closed.
 
 I am building this project out of passion.
 
+If you would like to support its development directly, you can donate through
+my [Ko-fi page](https://ko-fi.com/zoltrak/). Donations are completely optional
+but always appreciated.
+
 If you are interested in the project, please consider starring this repository
 and joining the Discord server. Even a simple star and joining the server can
 make a huge difference, because it helps me know in advance if people are truly
@@ -94,7 +100,8 @@ interested in my work.
 Any help is also welcome: logo, graphic design, ideas, advice, feedback, posts,
 sharing the project or anything that can help give it more visibility.
 
-[Join the Discord](https://discord.gg/3VnrmEgKVQ)
+[Join the Discord](https://discord.gg/3VnrmEgKVQ) ·
+[Support on Ko-fi](https://ko-fi.com/zoltrak/)
 
 ## Status
 
