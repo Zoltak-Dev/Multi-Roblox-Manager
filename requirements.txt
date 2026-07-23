@@ -1,0 +1,2 @@
+# No third-party dependency is required.
+# This file intentionally exists so automated and manual setup use the same command.
